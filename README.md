@@ -65,6 +65,7 @@ World Athletics (2023) marathon records.
 $$
 D' = (11.3 - 4.35) \times 120 = 834 m
 $$
+
 $$
 t = \frac{3200 - 834}{4.35} = 544 s = 9 min 05 s
 $$
@@ -84,9 +85,11 @@ Alexander et al. (1979) *J. Zool.*, 187: 169–178.
 - Duration ≈ 33 s  
 - D' ≈ 330 m  
 - Solve for CS:
+  
   $$
   CS = \frac{500 - 330}{33} ≈ 5.1 m/s
   $$
+  
 $$
 t = \frac{3200 - 330}{5.1} = 563 s = 9 min 23 s
 $$
@@ -106,6 +109,7 @@ Wilson et al. (2013) *Nature*, 498: 185–189.
 $$
 D' = (17 - 6.5) \times 60 = 630 m
 $$
+
 $$
 t = \frac{3200 - 630}{6.5} = 395 s = 6 min 35 s
 $$
@@ -142,6 +146,7 @@ Larsson & Sjöström (1992) *J. Small Anim. Pract.*, 33: 604–610.
 $$
 D' = (15 - 6) \times 30 = 270 m
 $$
+
 $$
 t = \frac{3200 - 270}{6.0} = 488 s = 8 min 08 s
 $$
@@ -151,23 +156,7 @@ Wilson et al. (2018) *Nature*, 554: 183–188.
 
 ---
 
-## 🦌 Pronghorn Antelope
 
-**Parameters**  
-- vₘₐₓ = 24.6 m/s (55 mph)  
-- CS ≈ 8.0 m/s (estimated sustained pace)  
-- Hold ≈ 20 s  
-
-$$
-D' = (24.6 - 8.0) \times 20 = 332 m
-$$
-$$
-t = \frac{3200 - 332}{8.0} = 359 s = 5 min 59 s
-$$
-
-**Refs:**  
-NPS.gov (2023) *Pronghorn factsheet*.  
-Wikipedia (“Pronghorn”).  
 
 ---
 
@@ -177,7 +166,6 @@ Wikipedia (“Pronghorn”).
 |----------|-----------|--------|--------------------|---------------|
 | Horse (*record*) | 16.3 | — | 196 | 3:16 |
 | Greyhound | 12.0 | 219 | 248 | 4:07 |
-| Pronghorn | 8.0 | 332 | 359 | 5:59 |
 | Kangaroo | 6.5 | 630 | 395 | 6:35 |
 | Zebra | 6.0 | 270 | 488 | 8:08 |
 | Human (male) | 5.83 | 287 | 499 | 8:19 |
@@ -189,5 +177,5 @@ Wikipedia (“Pronghorn”).
 ## 📊 Conclusion
 
 The science is clear — **thoroughbreds** dominate endurance speed.  
-Greyhounds and pronghorns are the only serious challengers, while kangaroos make the podium on efficiency.  
+Greyhounds are the only serious challengers, while kangaroos make the podium on efficiency.  
 Behind them, zebras, humans, ostriches, and even cheetahs cross the line minutes later — proving that the Melbourne Cup truly is the **race that stops the kingdom.**
