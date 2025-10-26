@@ -36,9 +36,11 @@ where:
 - D' = 287 m (Burnley 2023)
 
 **Calculations**
+
 $$
 t_{men} = \frac{3200 - 287}{5.83} = 499 s = 8 min 19 s
 $$
+
 $$
 t_{women} = \frac{3200 - 287}{5.33} = 546 s = 9 min 06 s
 $$
