@@ -85,11 +85,11 @@ Alexander et al. (1979) *J. Zool.*, 187: 169–178.
 - Duration ≈ 33 s  
 - D' ≈ 330 m  
 - Solve for CS:
-  
-  $$
-  CS = \frac{500 - 330}{33} ≈ 5.1 m/s
-  $$
-  
+
+$$
+CS = \frac{500 - 330}{33} ≈ 5.1 m/s
+$$
+
 $$
 t = \frac{3200 - 330}{5.1} = 563 s = 9 min 23 s
 $$
